@@ -1,0 +1,19 @@
+body{
+    background-image: url(../img/shattered.jpg);
+    background-repeat:no-repeat;
+    background-size:100% auto;
+    -moz-background-size:100% auto;
+}
+
+.logo {
+    font-family: 'Lacquer', sans-serif;
+}
+
+.logo a {
+    color: rgba(0, 0, 0, .9)
+}
+
+.logo a:hover,
+.logo a:active {
+    text-decoration: none;
+}
